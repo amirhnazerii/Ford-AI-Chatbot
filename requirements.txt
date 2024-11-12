@@ -1,0 +1,6 @@
+pandas
+requests
+beautifulsoup4
+sentence_transformers
+faiss-cpu
+openai==0.28
