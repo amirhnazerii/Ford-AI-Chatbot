@@ -20,9 +20,8 @@ This chatbot scrapes technical specifications for various Ford 2024 car and SUV 
 ## Data
 Technical specifications for various Ford 2024 car and SUV models from the Ford website (example: Mustang 2024):
 
-[Ford Mustang 2024](/Ford-AI-Chatbot/data/Ford_Mustang2024.PNG)
-[Ford Mustang 2024 specs](/Ford-AI-Chatbot/data/Ford_Mustang2024_Engines.PNG)
-
+![Ford Mustang 2024](/Ford-AI-Chatbot/data/Ford_Mustang2024.PNG)
+![Ford Mustang 2024 specs](/Ford-AI-Chatbot/data/Ford_Mustang2024_Engines.PNG)
 
 
 
