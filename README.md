@@ -118,5 +118,4 @@ PATH/
 - **Additional Model Training**: Fine-tune a custom model on Ford-specific terminology for even greater accuracy.
 
 ---
-
-Feel free to customize the URLs or modify the code to answer queries on other Ford vehicle specifications. Contributions are welcome to further improve this chatbot’s functionality and scalability!
+Disclaimer: This project is not associated with or endorsed by Ford Motor Company. Any use of Ford trademarks or copyrighted materials is intended for educational purposes only.
