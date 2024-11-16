@@ -3,7 +3,7 @@
 
 ** Copyright (c) 2024 - Amirhossein Nazeri ** 
 
-This project is a custom chatbot application that answers user queries on technical specifications for Ford’s 2024 car and SUV models. The chatbot uses **Retrieval-Augmented Generation (RAG)**, combining data retrieval and AI-based language generation to provide precise, contextually relevant answers about Ford vehicle specifications.
+Build Your Own Custom Chatbot: This project is a custom chatbot application that answers user queries on technical specifications for Ford’s 2024 car and SUV models. The chatbot uses **Retrieval-Augmented Generation (RAG)**, combining data retrieval and AI-based language generation to provide precise, contextually relevant answers about Ford vehicle specifications.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -112,10 +112,10 @@ PATH/
 
 - **OpenAI Completion**: In `openai_chat.py`, the retrieved data and user query are formatted into a prompt. The OpenAI API generates a final response based on this prompt.
 
-## Future Improvements
+## Future Improvements:
 - **Automated URL Updates**: Automatically update the URLs or add new Ford models.
 - **Enhanced Query Handling**: Improve the retrieval system to handle complex or ambiguous queries more effectively.
 - **Additional Model Training**: Fine-tune a custom model on Ford-specific terminology for even greater accuracy.
 
 ---
-Disclaimer: This project is not associated with or endorsed by Ford Motor Company. Any use of Ford trademarks or copyrighted materials is intended for educational purposes only.
+Disclaimer: This project is not associated with or endorsed by Ford Motor Company. Any use of Ford trademarks or copyrighted materials is intended for educational purposes only (e.g. Udacity Generative AI Course 3 Build Your Own Custom Chatbot).
